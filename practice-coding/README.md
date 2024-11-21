@@ -1,5 +1,5 @@
 # Setup 
-- I'm using pgadmin to run the sql code
+- I'm using `pgadmin` to run the sql code
 
 - Made changes to the makefile as `docker-compose` is changed to `docker compose` in the docker compose 2. This way the makefile is runnable.
 
