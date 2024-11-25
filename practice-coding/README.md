@@ -5,4 +5,4 @@
 
 - Forked this repo and have set the upstream repo to fetch.
 
-Run `git fetch upstream` to get the latest changes from the upstream branch.git
+Run `git fetch upstream` to get the latest changes from the upstream branch.git and then run `git rebase upstream/main` to get the local changes in. 
