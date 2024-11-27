@@ -21,6 +21,7 @@ CREATE TABLE players (
 	scoring_class scoring_class,
 	years_since_last_season INTEGER, --> new
 	current_season INTEGER, --> new
+	is_active BOOLEAN, --> new
 	PRIMARY KEY(player_name, current_season)
 )
 
